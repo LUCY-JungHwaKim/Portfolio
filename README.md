@@ -19,6 +19,36 @@ Thesis: Wearless IoT Device Controller based on Deep Neural Network and Hand Tra
   * Facial expression recognition
   * IoT device controller
 
+### SW Skills
+* Programming language <br>
+  * <b> Python (Advanced - For 5 years) </b>
+  * C/C++/C#/Java/JavaScirpt/Nodejs/Matlab (Intermediate)
+* Deep learning framework <br>
+  * <b> Keras/Tensorflow/Jupyter Notebook (Advanced - For 5 years) </b>
+  * Pytorch (Intermediate)
+* Machine learning <br>
+  * <b> Scikit-learn/SciPy/Pandas/Numpy/Matplotlib (Adavanced) </b>
+* Operating systems <br>
+  * <b> Linux (Shell, Docker-based) - Advanced --> My main workspace </b>
+  * Windows (Intermediate)
+* Cloud services <br>
+  * Google cloud platform/Google colab
+* Database <br>
+  * MongoDB/MySQL
+* Device <br>
+  * Intel RealSense camera series (For capturing image with RGB/depth/infrared modalities)
+  * Gazepoint GP3 (For eye tracking)
+  * Embedded computers (Raspberry pi, Jetson nano)
 
+### Research Projects
+[Link] https://github.com/LUCY-JungHwaKim
+
+### Publications
+#### International Journal
+#### International Conference/Workshop
+#### Domestic Conference
+
+### Awards
+[Link] 
 
 
