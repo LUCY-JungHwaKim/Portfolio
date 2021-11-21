@@ -41,7 +41,7 @@ Thesis: Wearless IoT Device Controller based on Deep Neural Network and Hand Tra
   * Embedded computers (Raspberry pi, Jetson nano)
 
 ### Research Projects
-[Link] https://github.com/LUCY-JungHwaKim
+[Link] https://github.com/LUCY-JungHwaKim/Portfolio/tree/main/Research_Projects
 
 ### Publications
 #### International Journal
