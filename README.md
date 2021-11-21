@@ -44,11 +44,9 @@ Thesis: Wearless IoT Device Controller based on Deep Neural Network and Hand Tra
 [Link] https://github.com/LUCY-JungHwaKim/Portfolio/tree/main/Research_Projects
 
 ### Publications
-#### International Journal
-#### International Conference/Workshop
-#### Domestic Conference
+[Link] https://github.com/LUCY-JungHwaKim/Portfolio/tree/main/Publications
 
 ### Awards
-[Link] 
+[Link] https://github.com/LUCY-JungHwaKim/Portfolio/tree/main/Awards
 
 
